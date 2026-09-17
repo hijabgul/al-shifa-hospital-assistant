@@ -1,0 +1,128 @@
+[
+  {
+    "source": "README.txt",
+    "file_name": "README.txt",
+    "folder": "",
+    "chunk": 0
+  },
+  {
+    "source": "README.txt",
+    "file_name": "README.txt",
+    "folder": "",
+    "chunk": 1
+  },
+  {
+    "source": "emergency/emergency_procedure.txt",
+    "file_name": "emergency_procedure.txt",
+    "folder": "emergency",
+    "chunk": 0
+  },
+  {
+    "source": "emergency/emergency_triage.txt",
+    "file_name": "emergency_triage.txt",
+    "folder": "emergency",
+    "chunk": 0
+  },
+  {
+    "source": "emergency/emergency_care.txt",
+    "file_name": "emergency_care.txt",
+    "folder": "emergency",
+    "chunk": 0
+  },
+  {
+    "source": "hospital/services.txt",
+    "file_name": "services.txt",
+    "folder": "hospital",
+    "chunk": 0
+  },
+  {
+    "source": "hospital/hospital_overview.txt",
+    "file_name": "hospital_overview.txt",
+    "folder": "hospital",
+    "chunk": 0
+  },
+  {
+    "source": "hospital/hospital_rules.txt",
+    "file_name": "hospital_rules.txt",
+    "folder": "hospital",
+    "chunk": 0
+  },
+  {
+    "source": "patient_safety/infection_prevention.txt",
+    "file_name": "infection_prevention.txt",
+    "folder": "patient_safety",
+    "chunk": 0
+  },
+  {
+    "source": "patient_safety/privacy_and_confidentiality.txt",
+    "file_name": "privacy_and_confidentiality.txt",
+    "folder": "patient_safety",
+    "chunk": 0
+  },
+  {
+    "source": "patient_safety/medication_safety.txt",
+    "file_name": "medication_safety.txt",
+    "folder": "patient_safety",
+    "chunk": 0
+  },
+  {
+    "source": "patient_safety/patient_identification.txt",
+    "file_name": "patient_identification.txt",
+    "folder": "patient_safety",
+    "chunk": 0
+  },
+  {
+    "source": "department/cardiology.txt",
+    "file_name": "cardiology.txt",
+    "folder": "department",
+    "chunk": 0
+  },
+  {
+    "source": "department/radiology.txt",
+    "file_name": "radiology.txt",
+    "folder": "department",
+    "chunk": 0
+  },
+  {
+    "source": "department/pediatrics.txt",
+    "file_name": "pediatrics.txt",
+    "folder": "department",
+    "chunk": 0
+  },
+  {
+    "source": "department/department_overview.txt",
+    "file_name": "department_overview.txt",
+    "folder": "department",
+    "chunk": 0
+  },
+  {
+    "source": "admission/inpatient_admission_process.txt",
+    "file_name": "inpatient_admission_process.txt",
+    "folder": "admission",
+    "chunk": 0
+  },
+  {
+    "source": "admission/patient_admission_guidelines.txt",
+    "file_name": "patient_admission_guidelines.txt",
+    "folder": "admission",
+    "chunk": 0
+  },
+  {
+    "source": "admission/patient_admission_guidelines.txt",
+    "file_name": "patient_admission_guidelines.txt",
+    "folder": "admission",
+    "chunk": 1
+  },
+  {
+    "source": "admission/patient_registration.txt",
+    "file_name": "patient_registration.txt",
+    "folder": "admission",
+    "chunk": 0
+  },
+  {
+    "source": "admission/patient_registration.txt",
+    "file_name": "patient_registration.txt",
+    "folder": "admission",
+    "chunk": 1
+  }
+]
