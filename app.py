@@ -122,9 +122,9 @@ st.markdown(
 # FILE PATHS
 # ============================================================
 
-INDEX_PATH = "/content/faiss_index/hospital.index"
-CHUNKS_PATH = "/content/faiss_index/chunks.json"
-METADATA_PATH = "/content/faiss_index/metadata.json"
+INDEX_PATH = "faiss_index/hospital.index"
+CHUNKS_PATH = "faiss_index/chunks.json"
+METADATA_PATH = "faiss_index/metadata.json"
 
 
 # ============================================================
